@@ -1,16 +1,25 @@
 {
+<<<<<<< HEAD
   "name": "tailwind",
+=======
+  "name": "my-app",
+>>>>>>> 6012fb5e0d901b81fe5cc54048cd5afb7345de49
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+<<<<<<< HEAD
     "start": "next start",
     "lint": "eslint"
+=======
+    "start": "next start"
+>>>>>>> 6012fb5e0d901b81fe5cc54048cd5afb7345de49
   },
   "dependencies": {
     "next": "16.1.6",
     "react": "19.2.3",
+<<<<<<< HEAD
     "react-dom": "19.2.3",
     "react-hook-form": "^7.71.2"
   },
@@ -23,5 +32,12 @@
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
     "typescript": "^5"
+=======
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+>>>>>>> 6012fb5e0d901b81fe5cc54048cd5afb7345de49
   }
 }
